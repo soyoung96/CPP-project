@@ -1,2 +1,0 @@
-C:\Users\Admin\source\repos\RoomEscape\Debug\RoomEscape.exe
-C:\Users\Admin\source\repos\RoomEscape\Debug\RoomEscape.pdb

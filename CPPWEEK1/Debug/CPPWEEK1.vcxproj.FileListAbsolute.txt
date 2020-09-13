@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\CPPWEEK1\Debug\CPPWEEK1.exe
+C:\Users\Admin\source\repos\CPPWEEK1\Debug\CPPWEEK1.pdb
